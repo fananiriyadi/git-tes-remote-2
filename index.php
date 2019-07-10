@@ -9,5 +9,10 @@
 <body>
     <h1>hellow world!</h1>
     <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nulla rem architecto vitae. Labore vero dolorum maiores cumque praesentium perspiciatis, ducimus, magnam, repellendus deleniti nisi atque numquam. Veniam dolorum aliquam itaque.</p>
+    <ul>
+      <li>satu</li>
+      <li>dua</li>
+      <li>tiga</li>
+    </ul>
 </body>
 </html>
